@@ -2,7 +2,7 @@
 
 This is a small tool I made to play with the concept of reinforcement learning
 
-![](/ressources/screenshot.png)
+![](/resources/screenshot.png)
 
 The project uses the [Processing](https://processing.org/) software, you will need it in order to compile the source files.
 
